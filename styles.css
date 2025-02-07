@@ -99,8 +99,9 @@ h2 {
     font-family: 'Lemon', serif;
     font-size: 2.5em;
     font-style: normal;
-    color: var(--laranja-claro);
+    color: var(--azul-claro);
 }
+
 
 #galeria {
     background-color: #FAF4F4;
