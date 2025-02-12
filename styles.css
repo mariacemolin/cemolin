@@ -5,7 +5,7 @@
     --vermelho: #e60707;
     --alto-contraste-fundo: #8228e9;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #f1d11c;
+    --alto-contraste-link: #fc088e;
 }
 
 body {
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #da9270;
+    color: #11e6f5;
     font-weight: 600;
 }
 
