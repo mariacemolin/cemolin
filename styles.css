@@ -104,7 +104,7 @@ h2 {
 
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #f59797;
 
 }
 
@@ -122,7 +122,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #0c0b0c;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -189,7 +189,7 @@ h2 {
     color: var(--alto-contraste-fundo)
 }
 
-.alto-contraste #lollapalooza {
+.alto-contraste #rock in rio{
     background: none;
 }
 
